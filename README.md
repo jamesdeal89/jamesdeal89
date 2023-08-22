@@ -6,7 +6,7 @@
 Also, started learning C to get ready for first year uni CS.</p>
 
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesdeal89&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesdeal89&layout=compact"/>
 </div>
 
 ###
