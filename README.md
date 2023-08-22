@@ -2,6 +2,9 @@
 
 ###
 
+<p>Currently trying to learn some PHP for back-ending a small website project.<br>
+Also, started learning C to get ready for first year uni CS.</p>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamesdeal89&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
