@@ -1,9 +1,10 @@
-<h2 align="left">Hi 👋! My name is Jamie and I'm a CS student</h2>
+<h2 align="left">My name is Jamie and I'm a CS student @ University Of Nottingham</h2>
 
 ### What am I working on?
 
-<p>Currently learning some PHP for the backend of a small website project.<br>
-Also, started learning C to get ready for Computer Science at uni.</p>
+<p>Learning ANSI C.<br/> 
+Learning ARM Assembly using Uni Of Manchester's Komodo emulator for the ARM CPU.<br/>
+</p>
 
 ### Languages / Interests
 
