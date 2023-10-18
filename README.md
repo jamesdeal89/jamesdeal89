@@ -4,6 +4,7 @@
 
 <p>Learning ANSI C.<br/> 
 Learning ARM Assembly using Uni Of Manchester's Komodo emulator for the ARM CPU.<br/>
+Learning HDL to make logic circuits using Nand2Teris's Hardware Simulator.
 </p>
 
 ### Languages / Interests
