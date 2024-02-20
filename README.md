@@ -2,9 +2,16 @@
 
 ### What am I working on?
 
-<p>Learning ANSI C.<br/> 
-Learning ARM Assembly using Uni Of Manchester's Komodo emulator for the ARM CPU.<br/>
-Learning HDL to make logic circuits using Nand2Teris's Hardware Simulator.
+<p>Learning Java and Haskell to better understand OOP and FP.<br/> 
+Learning SQL and DBMS theory.<br/>
+Learning bottom-up AI in Python.
+</p>
+
+### What have I learnt so far?
+
+<p>ANSI C in Programming and Algorithms.<br/> 
+ARM Assembly using Uni Of Manchester's Komodo emulator for the ARM CPU.<br/>
+HDL to make logic circuits using Nand2Teris's Hardware Simulator.
 </p>
 
 ### Languages / Interests
