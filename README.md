@@ -1,5 +1,7 @@
 <h2 align="left">My name is Jamie and I'm a CS student @ University Of Nottingham</h2>
 
+<a href="https://jamesdeal89.github.io/">My personal website</a>
+
 ### What am I working on? Y1 Sem2
 
 <p>Learning Java and Haskell to better understand OOP and FP.<br/> 
