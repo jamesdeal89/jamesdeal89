@@ -1,6 +1,6 @@
 <h2 align="left">My name is Jamie and I'm a CS student @ University Of Nottingham</h2>
 
-<a href="https://jamesdeal89.github.io/">My personal website</a>
+<a href="https://jamesdeal89.github.io/">My personal website (Highly y2k stylized on purpose)</a>
 
 ### What am I working on? Y1 Sem2
 
