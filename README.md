@@ -1,21 +1,5 @@
 <h2 align="left">My name is Jamie and I'm a CS student @ University Of Nottingham</h2>
 
-<a href="https://jamesdeal89.github.io/">My personal website (Highly y2k stylized on purpose)</a>
-
-### What am I working on? Y1 Sem2
-
-<p>Learning Java and Haskell to better understand OOP and FP.<br/> 
-Learning SQL and DBMS theory.<br/>
-Learning bottom-up AI in Python.
-</p>
-
-### What have I learnt so far? Y1 Sem1
-
-<p>ANSI C in Programming and Algorithms.<br/> 
-ARM Assembly using Uni Of Manchester's Komodo emulator for the ARM CPU.<br/>
-HDL to make logic circuits using Nand2Teris's Hardware Simulator.
-</p>
-
 ### Languages / Interests
 
 <div align="left">
