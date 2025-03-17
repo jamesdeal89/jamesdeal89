@@ -1,7 +1,5 @@
 <h2 align="left">My name is Jamie and I'm a CS student @ University Of Nottingham</h2>
 
-### Languages / Interests
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
